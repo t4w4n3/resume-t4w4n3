@@ -1,11 +1,8 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: CV de Antoine Salesse
+description: CV de Antoine Salesse
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
-rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+
 
 # Build settings
 markdown: kramdown
@@ -14,72 +11,62 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
-  weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  name: Antoine Salesse
+  title: Développeur Scrum Java
+  address: Nantes, France
+  email: contact@antoine-salesse.fr
+  link: http://resume.antoine-salesse.fr
+  github: t4w4n3
+  linkedin: antoine-salesse-385318101
   stackoverflow:
-#  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
+      company: Capgemini
+      location: Nantes, France
+      title: Développeur Scrum Java
+      started: 2019
+      duration: (2019 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
+      company: Sogeti
+      location: Nantes, France
+      title: Développeur shell, Java 7, PL/SQL
+      started: 2016
+      duration: (2016 - 2018)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
+      company: Bimedia
+      location: La Roche-sur-Yon, France
+      title: Développeur Node.js
+      started: 2016
+      duration: (avril 2016 - août 2016)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      organization: ENSEIRB-MATMECA
+      location: Bordeaux, France
+      degree: Master en alternance
+      major: Réseaux et Systèmes d'Information
+      started: 2012
+      duration: (2012 - 2015)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Francais
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Spanish
+      proficiency: Long time ago
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: Java SE 8
+      percentage: 88%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Java EE 7
+      percentage: 50%
     - skill3:
-      name: JavaScript
-      percentage: 70%
-    - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Jax-RS
+      percentage: 65%
