@@ -2,7 +2,10 @@
 title: CV de Antoine Salesse
 description: CV de Antoine Salesse
 favicon: /assets/img/avatar.JPG
-
+port: 8080
+host: cv.antoine-salesse.fr
+detach: true
+baseurl: /fr
 
 # Build settings
 markdown: kramdown
