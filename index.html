@@ -55,16 +55,16 @@ layout: default
                             {% endif %}
                             <div class="timeline-panel grid-block">
                                 <div class="timeline-heading">
-                                    {% if education.organization %}
-                                        <h4 class="timeline-title">{{ education.organization }}</h4>
+                                    {% if education.degree %}
+                                        <h4 class="timeline-title">{{ education.degree }}</h4>
                                     {% endif %}
                                     <p>
                                         <small class="text-muted">
-                                            {% if education.degree %}
-                                                {{ education.degree }}
-                                            {% endif %}
                                             {% if education.major %}
-                                                , {{ education.major }}
+                                                {{ education.major }}
+                                            {% endif %}
+                                            {% if education.organization %}
+                                                , {{ education.organization }}
                                             {% endif %}
                                         </small>
                                     </p>
