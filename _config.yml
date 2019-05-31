@@ -3,7 +3,7 @@ title: CV de Antoine Salesse
 description: CV de Antoine Salesse
 favicon: /assets/img/avatar.JPG
 port: 8080
-host: 127.0.0.1
+host: cv.antoine-salesse.fr
 detach: true
 baseurl: /fr
 quiet: true
